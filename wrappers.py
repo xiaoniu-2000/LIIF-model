@@ -1,3 +1,10 @@
+'''
+Author: xiaoniu
+Date: 2026-01-06 16:46:34
+LastEditors: xiaoniu
+LastEditTime: 2026-01-06 16:59:59
+Description: Wrapper dataset for LIIF with implicit downsampling
+'''
 import torch
 import math
 import random

@@ -1,3 +1,10 @@
+'''
+Author: xiaoniu
+Date: 2026-01-06 16:46:34
+LastEditors: xiaoniu
+LastEditTime: 2026-01-06 16:59:45
+Description: 
+'''
 #train the LIIF model.
 import torch
 import torch.nn.functional as F

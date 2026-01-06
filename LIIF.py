@@ -3,7 +3,7 @@ Author: xiaoniu
 Date: 2026-01-06 16:46:34
 LastEditors: xiaoniu
 LastEditTime: 2026-01-06 16:46:40
-Description: 文件用途描述
+Description: model structure of LIIF
 '''
 import torch
 import torch.nn as nn
