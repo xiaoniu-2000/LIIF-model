@@ -2,8 +2,8 @@
 Author: xiaoniu
 Date: 2026-01-06 16:46:34
 LastEditors: xiaoniu
-LastEditTime: 2026-01-06 16:59:28
-Description: 文件用途描述
+LastEditTime: 2026-01-06 17:01:47
+Description: Provides a custom dataset class for loading
 '''
 import numpy as np
 import torch

@@ -2,8 +2,8 @@
 Author: xiaoniu
 Date: 2026-01-06 16:46:34
 LastEditors: xiaoniu
-LastEditTime: 2026-01-06 16:59:45
-Description: 
+LastEditTime: 2026-01-06 17:01:54
+Description: The training script.
 '''
 #train the LIIF model.
 import torch

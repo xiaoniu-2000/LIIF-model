@@ -2,8 +2,8 @@
 Author: xiaoniu
 Date: 2026-01-06 16:46:34
 LastEditors: xiaoniu
-LastEditTime: 2026-01-06 16:59:36
-Description: 文
+LastEditTime: 2026-01-06 17:01:51
+Description: Test script for LIIF super-resolution model
 '''
 import os
 import LIIF
